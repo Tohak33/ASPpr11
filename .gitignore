@@ -1,0 +1,15 @@
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.docx
+*.pdf
+*.mdf
+*.ldf
+*.log
+*.zip
+reports/
+ClientApp/node_modules/
+ClientApp/dist/
+ClientApp/.env.local
